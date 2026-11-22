@@ -1,0 +1,8 @@
+
+# Arquivos auxiliares dos bancos LevelDB
+**/LOG
+**/LOG.old
+**/LOCK
+
+# Arquivos temporários do LevelDB
+**/*.dbtmp

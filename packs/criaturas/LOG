@@ -1,8 +1,0 @@
-2025/11/24-01:18:09.217 2acc Recovering log #4
-2025/11/24-01:18:09.330 2acc Delete type=0 #4
-2025/11/24-01:18:09.330 2acc Delete type=3 #2
-2025/11/24-02:01:58.403 11e0 Level-0 table #9: started
-2025/11/24-02:01:58.403 11e0 Level-0 table #9: 0 bytes OK
-2025/11/24-02:01:58.486 11e0 Delete type=0 #7
-2025/11/24-02:01:58.712 11e0 Manual compaction at level-0 from '!actors!1nQZXcLuZNJvmeCD' @ 72057594037927935 : 1 .. '!folders!3fLqMzjM6Z9PVcL1' @ 0 : 0; will stop at (end)
-2025/11/24-02:01:58.713 11e0 Manual compaction at level-1 from '!actors!1nQZXcLuZNJvmeCD' @ 72057594037927935 : 1 .. '!folders!3fLqMzjM6Z9PVcL1' @ 0 : 0; will stop at (end)
