@@ -1,7 +1,8 @@
-2026/11/22-11:17:36.971 4b74 Recovering log #738
-2026/11/22-11:17:37.061 4b74 Delete type=0 #738
-2026/11/22-11:17:37.062 4b74 Delete type=3 #736
-2026/11/22-11:45:19.765 3064 Level-0 table #743: started
-2026/11/22-11:45:19.765 3064 Level-0 table #743: 0 bytes OK
-2026/11/22-11:45:19.805 3064 Delete type=0 #741
-2026/11/22-11:45:19.974 3064 Manual compaction at level-0 from '!folders!2ifgIzRqcxlxH7qs' @ 72057594037927935 : 1 .. '!items!z7lLlzsfY3y3YLhG' @ 0 : 0; will stop at (end)
+2026/11/22-13:25:33.630 287c Log #746: 0 ops saved to Table #750 OK
+2026/11/22-13:25:33.630 287c Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\ancestralidades/000746.log: OK
+2026/11/22-13:25:33.630 287c Log #749: 0 ops saved to Table #751 OK
+2026/11/22-13:25:33.631 287c Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\ancestralidades/000749.log: OK
+2026/11/22-13:25:33.631 287c Table #699: 102 entries OK
+2026/11/22-13:25:33.737 287c Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\ancestralidades/MANIFEST-000744: OK
+2026/11/22-13:25:33.738 287c Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\ancestralidades/MANIFEST-000748: OK
+2026/11/22-13:25:33.820 287c **** Repaired leveldb C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\ancestralidades; recovered 1 files; 87880 bytes. Some data may have been lost. ****
