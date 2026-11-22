@@ -1,7 +1,7 @@
 {
   "id": "path-to-dragons",
   "title": "Path to Dragons",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -80,5 +80,18 @@
   "url": "https://github.com/SongHawke/path-to-dragons",
   "manifest": "https://raw.githubusercontent.com/SongHawke/path-to-dragons/main/module.json",
   "download": "https://github.com/SongHawke/path-to-dragons/archive/refs/heads/main.zip",
-  "description": ""
+  "description": "",
+  "packFolders": [
+    {
+      "name": "Path to Dragons",
+      "sorting": "a",
+      "packs": [
+        "ancestralidades",
+        "classes",
+        "magias",
+        "divindades",
+        "diarios"
+      ]
+    }
+  ]
 }
