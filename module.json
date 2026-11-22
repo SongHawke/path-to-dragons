@@ -80,7 +80,6 @@
   "url": "https://github.com/SongHawke/path-to-dragons",
   "manifest": "https://raw.githubusercontent.com/SongHawke/path-to-dragons/main/module.json",
   "download": "https://github.com/SongHawke/path-to-dragons/archive/refs/heads/main.zip",
-  "description": "",
   "packFolders": [
     {
       "name": "Path to Dragons",
@@ -91,7 +90,19 @@
         "magias",
         "divindades",
         "diarios"
-      ]
+      ],
+      "color": null,
+      "folders": []
     }
-  ]
+  ],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "pf2e-dailies",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
 }

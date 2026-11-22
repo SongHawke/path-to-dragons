@@ -1,8 +1,7 @@
-2026/11/22-13:25:34.962 1ae4 Log #22: 0 ops saved to Table #26 OK
-2026/11/22-13:25:34.979 1ae4 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\diarios/000022.log: OK
-2026/11/22-13:25:34.979 1ae4 Log #25: 0 ops saved to Table #27 OK
-2026/11/22-13:25:34.980 1ae4 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\diarios/000025.log: OK
-2026/11/22-13:25:34.980 1ae4 Table #11: 3 entries OK
-2026/11/22-13:25:35.057 1ae4 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\diarios/MANIFEST-000020: OK
-2026/11/22-13:25:35.057 1ae4 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\diarios/MANIFEST-000024: OK
-2026/11/22-13:25:35.180 1ae4 **** Repaired leveldb C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\diarios; recovered 1 files; 1213 bytes. Some data may have been lost. ****
+2026/11/22-18:15:39.433 41a0 Recovering log #35
+2026/11/22-18:15:39.582 41a0 Delete type=0 #35
+2026/11/22-18:15:39.582 41a0 Delete type=3 #33
+2026/11/22-18:20:52.499 30e8 Level-0 table #41: started
+2026/11/22-18:20:52.499 30e8 Level-0 table #41: 0 bytes OK
+2026/11/22-18:20:52.541 30e8 Delete type=0 #39
+2026/11/22-18:20:52.542 30e8 Manual compaction at level-0 from '!journal!u6kYN8M6AmqGrsly' @ 72057594037927935 : 1 .. '!journal.pages!u6kYN8M6AmqGrsly.wQjzERHLLjQ9Pgqc' @ 0 : 0; will stop at (end)

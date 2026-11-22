@@ -1,8 +1,7 @@
-2026/11/22-13:25:34.272 1ae4 Log #703: 0 ops saved to Table #707 OK
-2026/11/22-13:25:34.273 1ae4 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\magias/000703.log: OK
-2026/11/22-13:25:34.273 1ae4 Log #706: 0 ops saved to Table #708 OK
-2026/11/22-13:25:34.273 1ae4 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\magias/000706.log: OK
-2026/11/22-13:25:34.273 1ae4 Table #700: 10 entries OK
-2026/11/22-13:25:34.345 1ae4 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\magias/MANIFEST-000701: OK
-2026/11/22-13:25:34.346 1ae4 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\magias/MANIFEST-000705: OK
-2026/11/22-13:25:34.465 1ae4 **** Repaired leveldb C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\magias; recovered 1 files; 7901 bytes. Some data may have been lost. ****
+2026/11/22-18:15:39.111 41a0 Recovering log #716
+2026/11/22-18:15:39.258 41a0 Delete type=0 #716
+2026/11/22-18:15:39.258 41a0 Delete type=3 #714
+2026/11/22-18:20:52.283 30e8 Level-0 table #722: started
+2026/11/22-18:20:52.283 30e8 Level-0 table #722: 0 bytes OK
+2026/11/22-18:20:52.324 30e8 Delete type=0 #720
+2026/11/22-18:20:52.325 30e8 Manual compaction at level-0 from '!folders!7WR8MNpao48ZdST1' @ 72057594037927935 : 1 .. '!items!w89vJrfFtpJfOuWz' @ 0 : 0; will stop at (end)

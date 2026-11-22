@@ -1,8 +1,7 @@
-2026/11/22-13:25:34.566 a04 Log #24: 0 ops saved to Table #28 OK
-2026/11/22-13:25:34.567 a04 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\divindades/000024.log: OK
-2026/11/22-13:25:34.567 a04 Log #27: 0 ops saved to Table #29 OK
-2026/11/22-13:25:34.567 a04 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\divindades/000027.log: OK
-2026/11/22-13:25:34.568 a04 Table #13: 154 entries OK
-2026/11/22-13:25:34.638 a04 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\divindades/MANIFEST-000022: OK
-2026/11/22-13:25:34.638 a04 Archiving C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\divindades/MANIFEST-000026: OK
-2026/11/22-13:25:34.761 a04 **** Repaired leveldb C:\Users\mandy\AppData\Local\FoundryVTT\Data\modules\path-to-dragons\packs\divindades; recovered 1 files; 151272 bytes. Some data may have been lost. ****
+2026/11/22-18:15:39.262 41a0 Recovering log #37
+2026/11/22-18:15:39.429 41a0 Delete type=0 #37
+2026/11/22-18:15:39.429 41a0 Delete type=3 #35
+2026/11/22-18:20:52.383 30e8 Level-0 table #43: started
+2026/11/22-18:20:52.384 30e8 Level-0 table #43: 0 bytes OK
+2026/11/22-18:20:52.413 30e8 Delete type=0 #41
+2026/11/22-18:20:52.413 30e8 Manual compaction at level-0 from '!items!AX7PLf2d8EzXdLrb' @ 72057594037927935 : 1 .. '!items!sYLkdfgoctvEhg6i' @ 0 : 0; will stop at (end)
